@@ -2,7 +2,7 @@
 
 Super Vector Machine goal is maximize marigin for having better classifier
 
-! [](./images/readme.png)
+![](./images/readme.png)
 
 so we have and objective function and N(number of data) statements that have to satisfied
 
